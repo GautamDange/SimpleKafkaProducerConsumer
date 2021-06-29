@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "depth": 10,
+      "description": "description 1",
+      "gtin": "gtin8881",
+      "height": 11,
+      "id": "id111",
+      "length": 12,
+      "name": "name 1",
+      "weight": 33
+    },
+    {
+      "depth": 10,
+      "description": "description 2",
+      "gtin": "gtin88881",
+      "height": 21,
+      "id": "id112",
+      "length": 21,
+      "name": "name 2",
+      "weight": 23
+    },
+    {
+      "depth": 20,
+      "description": "description 3",
+      "gtin": "gtin8889991",
+      "height": 21,
+      "id": "id113",
+      "length": 21,
+      "name": "name 3",
+      "weight": 33
+    },
+    {
+      "depth": 30,
+      "description": "description 4",
+      "gtin": "gtin888565651",
+      "height": 31,
+      "id": "id114",
+      "length": 21,
+      "name": "name 4",
+      "weight": 33
+    },
+    {
+      "depth": 40,
+      "description": "description 5",
+      "gtin": "gtin8885651",
+      "height": 41,
+      "id": "id115",
+      "length": 21,
+      "name": "name 5",
+      "weight": 43
+    },
+    {
+      "depth": 50,
+      "description": "description 6",
+      "gtin": "gtin88876761",
+      "height": 11,
+      "id": "id116",
+      "length": 51,
+      "name": "name 6",
+      "weight": 63
+    }
+  ]
+}
